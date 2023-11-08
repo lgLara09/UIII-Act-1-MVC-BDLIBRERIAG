@@ -5,7 +5,7 @@ actividad 1 MVC Libreriag
 # Lizbeth Garcia Lara
 # Tabla libro
 # Base de datos en phpmyadmin
-¡[ base de datos ] (https://github.com/lgLara09/UIII-Act-1-MVC-BDLIBRERIAG/blob/main/BASE%20DE%20DATOS.png)
+¡[ base de datos ](image)(https://github.com/lgLara09/UIII-Act-1-MVC-BDLIBRERIAG/blob/main/BASE%20DE%20DATOS.png)
 
 # Pantalla de inicio
 ¡[ base de datos ] (https://github.com/lgLara09/UIII-Act-1-MVC-BDLIBRERIAG/blob/main/pantalla_inicio.png)
